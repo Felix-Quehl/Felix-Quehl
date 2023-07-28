@@ -8,7 +8,7 @@ ensure the technical plasticity and quality of our cloud, web, and mobile soluti
 
 With over 10 years of experience in engineering, I have a deep passion for research and development in computer science and software engineering. I hold a Computer Science Expert degree from the Chamber of Commerce and Industry for Upper Franconia, Bayreuth. I have worked on various projects ranging from industrial manufacturing, e-mobility, IoT, to machine learning. I proactively support and empower my colleagues and constantly seek to learn new skills and technologies to adapt to the ever-changing markets.
 
-## EMPLOYMENTS
+## Employments
 
 ### Staff Software Engineer @ WS Audiology (11.2021 – Present / 1 yr 9 mos)
 
