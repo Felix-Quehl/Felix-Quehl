@@ -53,7 +53,7 @@ solutions for customers of many domains. The projects
 covered topics ranging from industrial manufacturing processes, E-
 Mobility, IoT up to Machine Learning.
 
-### Software Developer @ Prozesstechnik Kropf GmbH (03.2014 – 12.2018 / 4 yrs 10 mos)
+### Software Engineer @ Prozesstechnik Kropf GmbH (03.2014 – 12.2018 / 4 yrs 10 mos)
 
 Preceded by a short period as a solution specialist, I started my professional
 carrier with an apprenticeship to become an Expert in Computer Science
