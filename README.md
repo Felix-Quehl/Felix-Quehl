@@ -10,7 +10,15 @@ With over 10 years of experience in engineering, I have a deep passion for resea
 
 ## Employments
 
-### Staff Software Engineer @ WS Audiology (11.2021 – Present / 1 yr 9 mos)
+### Principal Software Engineer (Software Architect) @ Pleodat GmbH (08.2023 - Present)
+
+At the research company Pleodat, we are building the information management system of the future, called Cortex, which is based on principles of how the human brain handles information. While doing so, we build on the intellectual property of Cortex AG initially founded by Peter Palm.
+
+In our vision Cortex will be a universal data storage that eliminates data silos, can store diverse data, combines operational with analytical data, and integrates streaming data. The knowledge contained in the data would become effortlessly accessible to everyone authorized. Cortex can so also support agile processes and simplify IT while reducing energy consumption.
+
+As a principal software engineer, my mission is to consult and hands-on support colleagues from engineering and management while also being a collaborator for partners, so that we can succeed in our vision to establish a new era of data storage.
+
+### Staff Software Engineer @ WS Audiology (11.2021 – 08.2023 / 1 yr 10 mos)
 
 As Staff Software Engineer, I fulfil the role of Software Architect for an
 agile delivery organization, which is home to 7 scrum teams who develop
